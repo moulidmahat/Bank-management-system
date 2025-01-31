@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sawongam Bank - Putting fun in funds since 1969</title>
+    <title>AINI Bank - Putting fun in funds since 1969</title>
     <link rel="icon" href="../assets/img/logo.png" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -27,7 +27,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-transparent pb-5">
         <div class="container">
             <a class="navbar-brand nav-logo" href="#">
-                <img src="../assets/img/home-logo.png" alt="Logo" width="200">
+                <img src="../assets/img/AINI-logo.png" alt="Logo" width="200">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -238,7 +238,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6">
                     <h2 class="beast-title mb-3">Budget Beasts, Not <br> Budget Bums</h2>
-                    <p class="bease-subtitle mb-5">Unleash Your Inner Financial Ninja with Sawongam Bank's Killer Tools
+                    <p class="bease-subtitle mb-5">Unleash Your Inner Financial Ninja with AINI Bank's Killer Tools
                     </p>
                     <div class="row">
                         <div class="col-md-4 mb-5 text-center">
@@ -347,7 +347,7 @@
             <div class="row">
                 <div class="col-lg-3">
                     <h5>About</h5>
-                    <p>Sawongam Bank was founded by the one and only, Sangam Adhikari, a financial wizard with a passion
+                    <p>AINI Bank was founded by the one and only, Sangam Adhikari, a financial wizard with a passion
                         for puns.</p>
                     <ul class="list-inline">
                         <li class="list-inline-item"><a href="#"><i class="fab fa-facebook fa-lg"

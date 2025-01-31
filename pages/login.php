@@ -19,8 +19,8 @@ if (isset($_GET['msg'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login - Sawongam Bank</title>
-    <link rel="icon" href="../assets/img/logo.png" type="image/x-icon">
+    <title>Login - AINI Bank</title>
+    <link rel="icon" href="../assets/img/AINI-logo.png" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
@@ -43,7 +43,7 @@ if (isset($_GET['msg'])) {
                         <a href="home.php"><img src="../assets/img/logo.png" height="80px"
                             class="zoom-on-hover" alt="logo"></a>
                     </div>
-                    <div class="col-md-12 fw-bold mb-5 text-center login-header">Welcome to Sawongam Bank!</div>
+                    <div class="col-md-12 fw-bold mb-5 text-center login-header">Welcome to AINI Bank!</div>
                     <form action="../scripts/login_auth.php" method="POST">
                         <div class="mb-2">
                             <label for="accountNumber" class="form-label text-black login-label">Account Number</label>
@@ -94,7 +94,7 @@ if (isset($_GET['msg'])) {
             <!-- Hidden Logo Section -->
             <div class="col-lg-6 align-items-center justify-content-center pb-5 d-none d-lg-flex"
                 style="height: 100vh; background-position: right;">
-                <a href="../index.php"><img src="../assets/img/logo.png" class="zoom-on-hover" alt="Sawongam Logo"></a>
+                <a href="../index.php"><img src="../assets/img/AINI-logo.png" class="zoom-on-hover" alt="Sawongam Logo"></a>
                 <!-- Login Side Block -->
                 <div class="login-block"></div>
             </div>
